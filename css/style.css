@@ -29,10 +29,10 @@ h4.amiable {
   background: linear-gradient(to right, #22aa44, #eafbee);
 }
 h4.indifferent {
-  background: linear-gradient(to right, #22aa44, #eafbee);
+  background: linear-gradient(to right, #dddd22, #f8f8d3);
 }
 h4.dubious {
-  background: linear-gradient(to right, #22aa44, #eafbee);
+  background: linear-gradient(to right, #dd4444, #f7d4d4);
 }
 
 .amiable {
