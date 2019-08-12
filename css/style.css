@@ -28,6 +28,12 @@ h4 {
 h4.amiable {
   background: linear-gradient(to right, #22aa44, #eafbee);
 }
+h4.indifferent {
+  background: linear-gradient(to right, #22aa44, #eafbee);
+}
+h4.dubious {
+  background: linear-gradient(to right, #22aa44, #eafbee);
+}
 
 .amiable {
   border: 1px solid #22aa44;
